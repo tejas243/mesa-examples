@@ -143,6 +143,7 @@ To run the examples in this repository, install Mesa with visualization dependen
 
 pip install mesa[viz]
 
+
 Some examples may additionally require:
 
 pip install networkx matplotlib solara altair
